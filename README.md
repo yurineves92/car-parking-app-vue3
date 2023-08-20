@@ -32,6 +32,7 @@ A API desse projeto se encontra neste link: https://github.com/yurineves92/car-p
 ## Tecnologias e Conceitos
 
 * Javascript
-* React
+* VueJS
+* Vite
 * API Rest
 * JSON
